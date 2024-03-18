@@ -1,0 +1,16 @@
+[
+    {
+      "Id": 1,
+      "Title": "The Witcher 3: Wild Hunt",
+      "Genre": "Action RPG",
+      "Platform": "PlayStation 4",
+      "ReleaseYear": 2015
+    },
+    {
+      "Id": 2,
+      "Title": "Red Dead Redemption 2",
+      "Genre": "Action Adventure",
+      "Platform": "Xbox One",
+      "ReleaseYear": 2018
+    }
+  ]
